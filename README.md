@@ -1,4 +1,4 @@
-# Pratica Estatistica
+# Indicadores Escolares
 
 Este repositório foi desenvolvido para a disciplina “Prática Estatística I” utilizando como base
 os microdados da educação básica do Censo Escolar 2024 fornecidos pelo Instituto Nacional
